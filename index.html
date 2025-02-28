@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="vi">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Datanguyen</title>
+</head>
+
+<body>
+    <p id="result"></p>
+
+    <script>
+        const urlParams = new URLSearchParams(window.location.search);
+        const content = urlParams.get('content');
+
+        if (content != "") {
+            geminiTranslate(content);
+        } else {
+            document.getElementById('result').innerText = 'Giá trị không hợp lệ';
+        }
+
+        function geminiTranslate(myWord) {
+            const url = 'https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyB72-LPMaqAwKvup88EYF2W6SIwHTB_yTw';
+            let word = myWord;
+            const data = {
+                contents: [{
+                    parts: [{
+                        text: myWord
+                    }]
+                }]
+            };
+            fetch(url, {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify(data)
+            }).then(response => response.json()).then(data => {
+                document.getElementById('result').innerText = data.candidates[0].content.parts[0].text;
+            }).catch(error => {
+                alert('Error:', error.message);
+            });
+        }
+    </script>
+</body>
+
+</html>
