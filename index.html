@@ -12,9 +12,8 @@
 
     <script>
         const urlParams = new URLSearchParams(window.location.search);
-        const content = urlParams.get('content');
-
-        if (content != "") {
+        const content = urlParams.toString();
+        if (content) {
             geminiTranslate(content);
         } else {
             document.getElementById('result').innerText = 'Giá trị không hợp lệ';
