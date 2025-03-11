@@ -1,0 +1,410 @@
+[
+  {
+    "h3": "pick up",
+    "img": "https://cdn.ejoy.io/ea/word/100019.jpg",
+    ".pos-holder": "phrasal verb",
+    ".textPronunciation": "/pɪk ʌp/",
+    ".definition": "go somewhere to collect someone, typically in one's car.",
+    ".example": "She dropped by to pick up her friend."
+  },
+  {
+    "h3": "sort of",
+    "img": "https://cdn.ejoy.io/ea/word/122794.jpeg",
+    ".pos-holder": "phrase",
+    ".textPronunciation": "/sɔrt əv/",
+    ".definition": "used to describe that something is partly true but it’s not the entire explanation.",
+    ".example": "Your answer is sort of correct but there’s a bit more to it that that."
+  },
+  {
+    "h3": "such",
+    "img": "https://cdn.ejoy.io/ea/word/127620.jpg",
+    ".pos-holder": "adj",
+    ".textPronunciation": "/sʌtʃ/",
+    ".definition": "used to emphasize the great degree of something",
+    ".example": "She had such a strange sense of humor."
+  },
+  {
+    "h3": "take place",
+    "img": "https://cdn.ejoy.io/ea/word/129842.png",
+    ".pos-holder": "phrasal verb",
+    ".textPronunciation": "/teɪk pleɪs/",
+    ".definition": "to happen, especially after previously being arranged or planned",
+    ".example": "No one was sure exactly why it took place there."
+  },
+  {
+    "h3": "used to",
+    "img": "https://img.glotdojo.com/insecure/fit/0/0/sm/1/plain/https://cdn.pixabay.com/photo/2024/07/02/14/48/woman-8867952_640.jpg@png",
+    ".pos-holder": "modal verb",
+    ".textPronunciation": "/just tu/",
+    ".definition": "shows that a particular thing always happened or was true in the past",
+    ".example": "We don’t go to the movies now as often as we used to."
+  },
+  {
+    "h3": "deal with",
+    "img": "https://cdn.ejoy.io/ea/word/147311.jpg",
+    ".pos-holder": "phrasal verb",
+    ".textPronunciation": "/dɪl wɪð/",
+    ".definition": "to take action to do something, especially to solve a problem",
+    ".example": "The police had several issues to deal with."
+  },
+  {
+    "h3": "due to",
+    "img": "https://cdn.ejoy.io/ea/word/147391.jpg",
+    ".pos-holder": "prep",
+    ".textPronunciation": "/du tu/",
+    ".definition": "because of",
+    ".example": "Many people believe it is due to global warming."
+  },
+  {
+    "h3": "have to",
+    "img": "https://cdn.ejoy.io/ea/word/148154.jpg",
+    ".pos-holder": "verb",
+    ".textPronunciation": "/hæv tu/",
+    ".definition": "used to show that you must do something",
+    ".example": "I exercise because I have to."
+  },
+  {
+    "h3": "in order to",
+    "img": "https://cdn.ejoy.io/ea/word/148829.webp",
+    ".pos-holder": "idiom",
+    ".textPronunciation": "/ɪn ˈɔrdər tu/",
+    ".definition": "with the purpose or intention of doing or achieving something",
+    ".example": "We shared a room in order to reduce costs"
+  },
+  {
+    "h3": "as well as",
+    "img": "https://cdn.ejoy.io/ea/word/149481.jpg",
+    ".pos-holder": "conj",
+    ".textPronunciation": "/əz wɛl əz/",
+    ".definition": "in addition to, and",
+    ".example": "We have a responsibility to our community as well as to our families."
+  },
+  {
+    "h3": "I mean",
+    "img": "https://cdn.ejoy.io/ea/word/150798.jpg",
+    ".pos-holder": "idiom",
+    ".textPronunciation": "/aɪ min/",
+    ".definition": "in other words",
+    ".example": "It’s fine, but, I mean, is it worth the price?"
+  },
+  {
+    "h3": "lead to",
+    "img": "https://cdn.ejoy.io/ea/word/150947.jpg",
+    ".pos-holder": "phrasal verb",
+    ".textPronunciation": "/lid tu/",
+    ".definition": "to be an introduction to or the cause of something",
+    ".example": "Excessive smoking can lead to heart disease."
+  },
+  {
+    "h3": "tend to",
+    "img": "https://cdn.ejoy.io/ea/word/151582.jpg",
+    ".pos-holder": "phrasal verb",
+    ".textPronunciation": "/tɛnd tu/",
+    ".definition": "to be likely to do something or to happen in a particular way ",
+    ".example": "I tend to think it’s actually a political matter."
+  },
+  {
+    "h3": "based on",
+    "img": "https://cdn.ejoy.io/ea/word/151692.jpg",
+    ".pos-holder": "adj,phrase",
+    ".textPronunciation": "/beɪst ɔn/",
+    ".definition": "used an idea, a fact, a situation, etc. as the point from which something can be developed",
+    ".example": "Based on the reports, it seems it was an accident."
+  },
+  {
+    "h3": "be going to",
+    "img": "https://cdn.ejoy.io/ea/word/151711.crdownload",
+    ".pos-holder": "phrase",
+    ".textPronunciation": "/bi ˈɡoʊɪŋ tu/",
+    ".definition": "used to show what somebody intends to do in the future",
+    ".example": "\"I'll be going to Wembley this Saturday. "
+  },
+  {
+    "h3": "in terms of something",
+    "img": "https://cdn.ejoy.io/ea/word/151767.png",
+    ".pos-holder": "phrase",
+    ".textPronunciation": "/ɪn tərmz əv ˈsʌmθɪŋ/",
+    ".definition": "used to show what aspect of a subject you are talking about or how you are thinking about it",
+    ".example": "If history is any kind of indicator, by 2013 we'll return to money defined in terms of something real. "
+  },
+  {
+    "h3": "there is",
+    "img": "https://cdn.ejoy.io/ea/word/152195.jpg",
+    ".pos-holder": "phrase",
+    ".textPronunciation": "/ðɛr ɪz/",
+    ".definition": "used to describe that something exists or is in a certain place",
+    ".example": "There is a temple on the top of the hill"
+  },
+  {
+    "h3": "as to",
+    "img": "https://cdn.ejoy.io/ea/word/153443.png",
+    ".pos-holder": "phrase",
+    ".textPronunciation": "/əz tə/",
+    ".definition": "with regard to, according to",
+    ".example": "There was some confusion as to its whereabouts."
+  },
+  {
+    "h3": "as if",
+    "img": "https://cdn.ejoy.io/ea/word/153473.jpeg",
+    ".pos-holder": "idiom",
+    ".textPronunciation": "/əz ɪf/",
+    ".definition": "in a way that suggests something",
+    ".example": "They walked together as if no time had passed."
+  },
+  {
+    "h3": "fail to",
+    "img": "https://cdn.ejoy.io/ea/word/45521.png",
+    ".pos-holder": "phrasal verb",
+    ".textPronunciation": "/feɪl tu/",
+    ".definition": "to not be able to do what you are trying to achieve or are expected to do",
+    ".example": "The secretary failed to call the customer and the company lost the account"
+  },
+  {
+    "h3": "in fact",
+    "img": "https://cdn.ejoy.io/ea/word/67976.png",
+    ".pos-holder": "adv",
+    ".textPronunciation": "/ɪn fækt/",
+    ".definition": " to indicate that you are giving more detailed information about what you have just said.",
+    ".example": "Painters who are in fact anything but unsophisticated"
+  },
+  {
+    "h3": "look for",
+    "img": "https://cdn.ejoy.io/ea/word/79049.jpg",
+    ".pos-holder": "phrasal verb",
+    ".textPronunciation": "/lʊk fɔr/",
+    ".definition": "to search for someone or something",
+    ".example": "We are looking for a partner in a new business venture."
+  },
+  {
+    "h3": "no longer",
+    "img": "https://cdn.ejoy.io/ea/word/90387.jpg",
+    ".pos-holder": "phrase",
+    ".textPronunciation": "/nou ˈlɔŋɡər/",
+    ".definition": "used to say that something which was possible or true before, is not now",
+    ".example": "Fortunately, it is no longer a concern now."
+  },
+  {
+    "h3": "at least",
+    "img": "https://cdn.ejoy.io/ea/word/9126.jpg",
+    ".pos-holder": "idiom",
+    ".textPronunciation": "/ət list/",
+    ".definition": "anyway; the good thing is that",
+    ".example": "We've run out of coffee, but at least we still have tea."
+  },
+  {
+    "h3": "a little",
+    "img": "https://cdn.ejoy.io/ea/word/e101.jpg",
+    ".pos-holder": "adv",
+    ".textPronunciation": "/ə ɭɪtɭ/",
+    ".definition": "to a small degree or somewhat",
+    ".example": "\"I am a little hungry, so let us buy some snacks.\""
+  },
+  {
+    "h3": "of course",
+    "img": "https://cdn.ejoy.io/ej/def/555.jpg",
+    ".pos-holder": "adv",
+    ".textPronunciation": "/ʌv kɔrs/",
+    ".definition": "definitely or as might be expected",
+    ".example": "\"Of course, I will be at the party!\""
+  },
+  {
+    "h3": "set up",
+    "img": "https://cdn.ejoy.io/ea/word/e158510.jpg",
+    ".pos-holder": "verb",
+    ".textPronunciation": "/sɛt ʌp/",
+    ".definition": "to arrange, organize or prepare",
+    ".example": "\"I need to set up a sound system for tonight's party.\""
+  },
+  {
+    "h3": "not only",
+    "img": "https://cdn.ejoy.io/ea/word/e426790.png",
+    ".pos-holder": "adv",
+    ".textPronunciation": "/nat oʊnɭi/",
+    ".definition": "used to say that two related statements are true",
+    ".example": "Not only is she pretty, but she's also very smart."
+  },
+  {
+    "h3": "a few",
+    "img": "https://cdn.ejoy.io/ea/word/e82.jpg",
+    ".pos-holder": "adj",
+    ".textPronunciation": "/ə fju/",
+    ".definition": "small in number",
+    ".example": "\"I bought a few things at the convenience store.\""
+  },
+  {
+    "h3": "following",
+    "img": "https://cdn.ejoy.io/ej/def/9381.jpg",
+    ".pos-holder": "adj",
+    ".textPronunciation": "/ˈfɑl·oʊ·ɪŋ/",
+    ".definition": "the thing or things that you are about to mention",
+    ".example": "The following items were found – a ring, a wallet, and a watch."
+  },
+  {
+    "h3": "a single",
+    "img": "https://cdn.ejoy.io/ea/word/ecb000006138.jpeg",
+    ".pos-holder": "adj",
+    ".textPronunciation": "/ˈsɪŋ·ɡəl/",
+    ".definition": "one only",
+    ".example": "A single customer was left in the shop."
+  },
+  {
+    "h3": "rather than",
+    "img": "https://cdn.ejoy.io/ej/def/7157.jpg",
+    ".pos-holder": "adv",
+    ".textPronunciation": "/[ˈræðər ðæn]/",
+    ".definition": "used for saying that one thing is preferred to another or happens instead of another",
+    ".example": "She wants us to meet her here rather than go to her apartment."
+  },
+  {
+    "h3": "used to",
+    "img": "https://cdn.ejoy.io/ej/def/2300.jpg",
+    ".pos-holder": "modal verb",
+    ".textPronunciation": "/ˈjus·tu, -tə/",
+    ".definition": "done or experienced in the past, but no longer done or experienced",
+    ".example": "We don’t go to the movies now as often as we used to."
+  },
+  {
+    "h3": "no one",
+    "img": "https://cdn.ejoy.io/ej/def/1099.jpg",
+    ".pos-holder": "pron",
+    ".textPronunciation": "/ˈnoʊ ˌwʌn/",
+    ".definition": "not any person",
+    ".example": "I called twice, but no one answered."
+  },
+  {
+    "h3": "each other",
+    "img": "https://cdn.ejoy.io/ej/def/2362.jpg",
+    ".pos-holder": "pron",
+    ".textPronunciation": "/itʃ ˈʌð·ər/",
+    ".definition": "(not used as the subject of a sentence) the other person, or any or all the other people in a group",
+    ".example": "The couple kept looking at each other and smiling."
+  },
+  {
+    "h3": "a lot",
+    "img": "https://cdn.ejoy.io/ej/def/33269.jpg",
+    ".pos-holder": "adj",
+    ".textPronunciation": "//ə lɒt/",
+    ".definition": "a large number; a bunch",
+    ".example": "\"She smiles a lot when she's happy.\""
+  },
+  {
+    "h3": "carry out",
+    "img": "https://cdn.ejoy.io/ej/def/6048.jpg",
+    ".pos-holder": "phrasal verb",
+    ".textPronunciation": "/ˈkæri aʊt/",
+    ".definition": "to perform; to do",
+    ".example": "The soldiers are going to carry out their mission tonight."
+  },
+  {
+    "h3": "such as",
+    "img": "https://cdn.ejoy.io/ej/def/6797.jpg",
+    ".pos-holder": "idiom",
+    ".textPronunciation": "/sʌtʃ əz/",
+    ".definition": "for example",
+    ".example": "\"I listen to music such as rock and classical.\""
+  },
+  {
+    "h3": "so that",
+    "img": "https://cdn.ejoy.io/ea/word/vq5595.png",
+    ".pos-holder": "conj",
+    ".textPronunciation": "/ soʊ ðæt, ðət/",
+    ".definition": "used to introduce a clause of purpose",
+    ".example": "Park it so that the wheels are curbed."
+  },
+  {
+    "h3": "a bit of",
+    "img": "https://cdn.ejoy.io/ea/word/vq5596.jpg",
+    ".pos-holder": "adv",
+    ".textPronunciation": "/ ə bɪt ʌv, ɑv, əv/",
+    ".definition": "a small amount of something",
+    ".example": "There was a bit of drama today at the office."
+  },
+  {
+    "h3": "to be likely to",
+    "img": "https://cdn.ejoy.io/ea/word/vq5597.jpg",
+    ".pos-holder": "expression",
+    ".textPronunciation": "/ tu bi ˈlɑɪk·li tu/",
+    ".definition": "to indicate that something is probably the case or will probably happen in a particular situation",
+    ".example": "That disease is known to be likely to cause death."
+  },
+  {
+    "h3": "go on",
+    "img": "https://cdn.ejoy.io/ea/word/vq5598.jpg",
+    ".pos-holder": "phrasal verb",
+    ".textPronunciation": "/ ɡoʊ ɔn/",
+    ".definition": "to continue doing something or being in a situation",
+    ".example": "I'm all right here. Go on with your work."
+  },
+  {
+    "h3": "is to",
+    "img": "https://cdn.ejoy.io/ea/word/vq5599.png",
+    ".pos-holder": "undefined",
+    ".textPronunciation": "/ ɪz tu/",
+    ".definition": "used to express an action which will happen (in the future)",
+    ".example": "Obama is to address the media this afternoon."
+  },
+  {
+    "h3": "a number of",
+    "img": "https://cdn.ejoy.io/ea/word/vq5600.jpg",
+    ".pos-holder": "adv",
+    ".textPronunciation": "/[eɪ ˈnʌmbər ʌv]/",
+    ".definition": "an unspecified number of; several or many",
+    ".example": "A number of concerns were raised."
+  },
+  {
+    "h3": "at all",
+    "img": "https://cdn.ejoy.io/ea/word/vq5601.jpg",
+    ".pos-holder": "idiom",
+    ".textPronunciation": "/ət ɔl/",
+    ".definition": "(used for emphasis) in any way; to any extent.",
+    ".example": "I'm afraid I have nothing at all to say."
+  },
+  {
+    "h3": "was to",
+    "img": "https://cdn.ejoy.io/ea/word/vq5602.jpeg",
+    ".pos-holder": "expression",
+    ".textPronunciation": "/ wəz tu/",
+    ".definition": "used when talking about a time in the past to say what happened later",
+    ".example": "The message was to be transmitted worldwide."
+  },
+  {
+    "h3": "those who",
+    "img": "https://cdn.ejoy.io/ea/word/vq5603.jpg",
+    ".pos-holder": "undefined",
+    ".textPronunciation": "/ ðoʊz hu/",
+    ".definition": "people who",
+    ".example": "He would defend those who had no voice."
+  },
+  {
+    "h3": "have got to",
+    "img": "https://cdn.ejoy.io/ea/word/vq5604.png",
+    ".pos-holder": "verb",
+    ".textPronunciation": "/hæv gɑt tu/",
+    ".definition": "You use have got to when you are saying that something is necessary or must happen in the way stated.",
+    ".example": "I'm not happy with the situation, but I have got to accept it."
+  },
+  {
+    "h3": "as well",
+    "img": "https://cdn.ejoy.io/ea/word/vq5605.jpg",
+    ".pos-holder": "idiom",
+    ".textPronunciation": "/æz  wel/",
+    ".definition": "in addition; too",
+    ".example": "They advertised the new movie on television, and in newspapers as well."
+  },
+  {
+    "h3": "up to",
+    "img": "https://cdn.ejoy.io/ea/word/vq5606.webp",
+    ".pos-holder": "prep",
+    ".textPronunciation": "/ʌp tu/",
+    ".definition": "indicating a maximum amount",
+    ".example": "The process is expected to take up to two years."
+  },
+  {
+    "h3": "have got",
+    "img": "https://cdn.ejoy.io/ea/word/vq5857.jpeg",
+    ".pos-holder": "verb",
+    ".textPronunciation": "/hæv ɡɑt/",
+    ".definition": "used in present tense situations usually in informal writing and in ordinary speech",
+    ".example": "I have got 3 dogs and 2 cats."
+  }
+]
