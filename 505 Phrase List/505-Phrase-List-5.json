@@ -1,0 +1,410 @@
+[
+  {
+    "h3": "believe in",
+    "img": "https://cdn.ejoy.io/ea/word/12934.jpeg",
+    ".pos-holder": "phrasal verb",
+    ".textPronunciation": "/bɪˈliv ɪn/",
+    ".definition": "to have trust in the goodness or ability of (someone)",
+    ".example": "I do not believe in formulas.I believe in integrity. "
+  },
+  {
+    "h3": "to date",
+    "img": "https://cdn.ejoy.io/ea/word/133440.jpeg",
+    ".pos-holder": "adv.phrase",
+    ".textPronunciation": "/tu deɪt/",
+    ".definition": "up to now",
+    ".example": "No suspect has been found to date"
+  },
+  {
+    "h3": "turn on",
+    "img": "https://cdn.ejoy.io/ea/word/136309.jpeg",
+    ".pos-holder": "phrasal verb",
+    ".textPronunciation": "/tərn ɔn/",
+    ".definition": "to start the flow of electricity, gas, water, etc. by moving a switch, button, etc.",
+    ".example": "She turned on the TV"
+  },
+  {
+    "h3": "up to",
+    "img": "https://cdn.ejoy.io/ea/word/139537.jpeg",
+    ".pos-holder": "prep",
+    ".textPronunciation": "/ʌp tə/",
+    ".definition": "near, next to",
+    ".example": "I walked up to the window and paused."
+  },
+  {
+    "h3": "take part in",
+    "img": "https://cdn.ejoy.io/ea/word/147308.jpeg",
+    ".pos-holder": "phrasal verb",
+    ".textPronunciation": "/ teɪk pɑrt ɪn /",
+    ".definition": "to be involved in something",
+    ".example": "It’s something we all wanted to take part in."
+  },
+  {
+    "h3": "look forward to",
+    "img": "https://cdn.ejoy.io/ea/word/148212.jpg",
+    ".pos-holder": "phrase",
+    ".textPronunciation": "/lʊk ˈfɔrwərd tu/",
+    ".definition": "to anticipate, to be eager for something to happen ",
+    ".example": "It would be a pleasure to face off with you sometime, somewhere. I look forward to this."
+  },
+  {
+    "h3": "turn into",
+    "img": "https://cdn.ejoy.io/ea/word/149134.png",
+    ".pos-holder": "phrasal verb",
+    ".textPronunciation": "/tərn ˈɪntu/",
+    ".definition": "to change or develop from one thing to another",
+    ".example": "Rain in the morning will turn into snow during the afternoon."
+  },
+  {
+    "h3": "be bound to",
+    "img": "https://cdn.ejoy.io/ea/word/150688.jpeg",
+    ".pos-holder": "idiom",
+    ".textPronunciation": "/bi baʊnd tu/",
+    ".definition": "certain or likely to happen, or to do or be something",
+    ".example": "It will be bound to have an effect on the election when it happens. "
+  },
+  {
+    "h3": "hear of",
+    "img": "https://cdn.ejoy.io/ea/word/150745.webp",
+    ".pos-holder": "phrasal verb",
+    ".textPronunciation": "/hɪr əv/",
+    ".definition": "be aware of or know of the existence of someone or something.",
+    ".example": "Haven’t you ever heard of manners?"
+  },
+  {
+    "h3": "these days",
+    "img": "https://cdn.ejoy.io/ea/word/151140.jpeg",
+    ".pos-holder": "idiom",
+    ".textPronunciation": "/ðiz deɪz/",
+    ".definition": "used to talk about the present, especially when you are comparing it with the past",
+    ".example": "It’s what these days the media call ‘viral’."
+  },
+  {
+    "h3": "short term",
+    "img": "https://cdn.ejoy.io/ea/word/151154.png",
+    ".pos-holder": "noun phrase",
+    ".textPronunciation": "/ʃɔrt tərm/",
+    ".definition": "a short time",
+    ".example": "There are many short term gains to be had."
+  },
+  {
+    "h3": "feel like",
+    "img": "https://cdn.ejoy.io/ea/word/47601.jpeg",
+    ".pos-holder": "idiom",
+    ".textPronunciation": "/fil lɑɪk/",
+    ".definition": "to feel one would like",
+    ".example": "I feel like staying in bed all day"
+  },
+  {
+    "h3": "follow up",
+    "img": "https://cdn.ejoy.io/ea/word/50017.jpeg",
+    ".pos-holder": "phrasal verb",
+    ".textPronunciation": "/ˈfɑloʊ ʌp/",
+    ".definition": "try to find out more about something; do something else to achieve aim",
+    ".example": "I’d like to follow up on what that gentleman said."
+  },
+  {
+    "h3": "get/be rid of",
+    "img": "https://cdn.ejoy.io/ea/word/57488.jpg",
+    ".pos-holder": "phrasal verb",
+    ".textPronunciation": "/ɡɛt rɪd əv/",
+    ".definition": "to remove or throw away something unwanted",
+    ".example": "I can’t wait to get rid of that ugly old couch"
+  },
+  {
+    "h3": "hang on",
+    "img": "https://cdn.ejoy.io/ea/word/61790.jpeg",
+    ".pos-holder": "phrasal verb",
+    ".textPronunciation": "/hæŋ ɔn/",
+    ".definition": "to wait for a short time",
+    ".example": "Please hang on while I get your folder"
+  },
+  {
+    "h3": "above all",
+    "img": "https://cdn.ejoy.io/ea/word/655.png",
+    ".pos-holder": "idiom",
+    ".textPronunciation": "/əˈbʌv ɔl/",
+    ".definition": "the most important",
+    ".example": "above all, you must be independent"
+  },
+  {
+    "h3": "in any case",
+    "img": "https://cdn.ejoy.io/ea/word/67948.jpeg",
+    ".pos-holder": "idiom",
+    ".textPronunciation": "/ɪn ˈɛni keɪs/",
+    ".definition": "anyway, whatever happens or may have happened",
+    ".example": "She couldn't shelter behind him all the time and in any case he wasn't always with her"
+  },
+  {
+    "h3": "as follows",
+    "img": "https://cdn.ejoy.io/ea/word/8443.jpeg",
+    ".pos-holder": "prep.phrase",
+    ".textPronunciation": "/æz ˈfɑl·oʊz/",
+    ".definition": "as given below",
+    ".example": "The plan is as follows."
+  },
+  {
+    "h3": "more or less",
+    "img": "https://cdn.ejoy.io/ea/word/86578.jpeg",
+    ".pos-holder": "idiom",
+    ".textPronunciation": "/mɔr ɔr lɛs/",
+    ".definition": "about",
+    ".example": "It’s more or less what we imagined I suppose."
+  },
+  {
+    "h3": "bring about",
+    "img": "https://cdn.ejoy.io/ea/word/ql11727786571.jpg",
+    ".pos-holder": "phrasal verb",
+    ".textPronunciation": "/bɹɪŋ əbaʊt/",
+    ".definition": "to cause to happen, occur, or exist",
+    ".example": "The new policies are expected to bring about significant changes in the education system."
+  },
+  {
+    "h3": "move on",
+    "img": "https://cdn.ejoy.io/ea/word/ql11750554638.jpeg",
+    ".pos-holder": "phrasal verb",
+    ".textPronunciation": "/ ˈmuːv ˈɑːn/",
+    ".definition": "start doing something new or making progress",
+    ".example": "I've been in this job long enough—it's time to move on."
+  },
+  {
+    "h3": "go ahead",
+    "img": "https://cdn.ejoy.io/ea/word/ql11822963538.jpeg",
+    ".pos-holder": "idiom",
+    ".textPronunciation": "/ ˈgoʊ əˈhɛd/",
+    ".definition": "to continue; to proceed without hesitation",
+    ".example": "We have more than enough food for dinner. Go ahead and invite your friend to join us."
+  },
+  {
+    "h3": "in charge of",
+    "img": "https://cdn.ejoy.io/ea/word/ql11823373852.jpg",
+    ".pos-holder": "idiom",
+    ".textPronunciation": "/ ɪn ˈtʃɑːrdʒ ˈʌv/",
+    ".definition": "having responsibility for ",
+    ".example": " John is in charge of all international sales for his company."
+  },
+  {
+    "h3": "the above",
+    "img": "https://cdn.ejoy.io/ea/word/vq5667.png",
+    ".pos-holder": "noun",
+    ".textPronunciation": "/ði əˈbʌv/",
+    ".definition": "something that is above or previously mentioned",
+    ".example": "The above only underscores strength of the data."
+  },
+  {
+    "h3": "go into",
+    "img": "https://cdn.ejoy.io/ea/word/vq5668.webp",
+    ".pos-holder": "verb",
+    ".textPronunciation": "/ɡoʊ ˈɪn·tu/",
+    ".definition": "to discuss, examine, describe, or explain something in a detailed or careful way",
+    ".example": "This is the first book to go into her personal life as well as her work."
+  },
+  {
+    "h3": "too many",
+    "img": "https://cdn.ejoy.io/ea/word/vq5669.jpeg",
+    ".pos-holder": "idiom",
+    ".textPronunciation": "/ tu ˈmen·i/",
+    ".definition": "a great many, a lot",
+    ".example": "You don’t see too many like that one, I’ll tell you."
+  },
+  {
+    "h3": "in the course of",
+    "img": "https://cdn.ejoy.io/ea/word/vq5670.jpeg",
+    ".pos-holder": "phrase",
+    ".textPronunciation": "/ɪn ði kɔrs, koʊrs ʌv,/",
+    ".definition": "during the specified period or activity",
+    ".example": "He was a friend to many people in the course of his life"
+  },
+  {
+    "h3": "aimed at",
+    "img": "https://cdn.ejoy.io/ea/word/vq5671.jpeg",
+    ".pos-holder": "phrase",
+    ".textPronunciation": "/eɪmd æt/",
+    ".definition": "if a plan or idea is aimed at a particular thing, it has the goal of achieving that thing",
+    ".example": "The regulations are aimed at the prevention of accidents at work."
+  },
+  {
+    "h3": "go off",
+    "img": "https://cdn.ejoy.io/ea/word/vq5672.jpeg",
+    ".pos-holder": "phrasal verb",
+    ".textPronunciation": "/ ɡoʊ ɔf/",
+    ".definition": "to leave a place and go somewhere else",
+    ".example": "They began to go off each other after two months together."
+  },
+  {
+    "h3": "in case",
+    "img": "https://cdn.ejoy.io/ea/word/vq5673.webp",
+    ".pos-holder": "\bphrase",
+    ".textPronunciation": "/ ɪn keɪs/",
+    ".definition": "in order to be prepared for something that may happen",
+    ".example": "Take an umbrella in case it rains."
+  },
+  {
+    "h3": "out there",
+    "img": "https://cdn.ejoy.io/ea/word/vq5674.jpeg",
+    ".pos-holder": "adv",
+    ".textPronunciation": "/ ɑʊt ðeər/",
+    ".definition": "in a place that could be anywhere except here",
+    ".example": "There are simply no jobs out there right now."
+  },
+  {
+    "h3": "led by",
+    "img": "https://cdn.ejoy.io/ea/word/vq5675.jpeg",
+    ".pos-holder": "verb",
+    ".textPronunciation": "/ led bɑɪ/",
+    ".definition": "being caused, motivated by something or someone",
+    ".example": "He was led by his competitive drive above all."
+  },
+  {
+    "h3": "more and more",
+    "img": "https://cdn.ejoy.io/ea/word/vq5676.webp",
+    ".pos-holder": "undefined",
+    ".textPronunciation": "/mɔr ænd mɔr/",
+    ".definition": "to indicate that something is becoming greater in amount, extent, or degree all the time",
+    ".example": "Her life was heading more and more where she wanted it to go."
+  },
+  {
+    "h3": "have a look",
+    "img": "https://cdn.ejoy.io/ea/word/vq5677.jpeg",
+    ".pos-holder": "undefined",
+    ".textPronunciation": "/hæv ə lʊk/",
+    ".definition": "to look at with attention, to observe",
+    ".example": "Why don’t you have a look?"
+  },
+  {
+    "h3": "put it",
+    "img": "https://cdn.ejoy.io/ea/word/vq5678.jpeg",
+    ".pos-holder": "verb",
+    ".textPronunciation": "/pʊt ɪt/",
+    ".definition": "to express something in words",
+    ".example": "She wanted to tell him that she didn't want to see him any more, but she didn't know how to put it."
+  },
+  {
+    "h3": "insofar as",
+    "img": "https://cdn.ejoy.io/ea/word/vq5679.jpeg",
+    ".pos-holder": "undefined",
+    ".textPronunciation": "/ˌɪn·soʊˈfɑr ˌæz/",
+    ".definition": "to the degree or extent that",
+    ".example": "She had done her best to comfort him, insofar as she was able."
+  },
+  {
+    "h3": "as such",
+    "img": "https://cdn.ejoy.io/ea/word/vq5680.webp",
+    ".pos-holder": "adv",
+    ".textPronunciation": "/æz  sʌtʃ/",
+    ".definition": "using the exact meaning of the word or phrase",
+    ".example": "The film was not a horror as such."
+  },
+  {
+    "h3": "set to",
+    "img": "https://cdn.ejoy.io/ea/word/vq5681.jpeg",
+    ".pos-holder": "verb",
+    ".textPronunciation": "/set tu/",
+    ".definition": "likely to do something",
+    ".example": "He’s set to arrive today."
+  },
+  {
+    "h3": "in contrast",
+    "img": "https://cdn.ejoy.io/ea/word/vq5682.jpeg",
+    ".pos-holder": "adv",
+    ".textPronunciation": "/ ɪn ˈkɑn·træst/",
+    ".definition": "used when second thing very different from first",
+    ".example": "The inside was amazing in contrast."
+  },
+  {
+    "h3": "at this stage",
+    "img": "https://cdn.ejoy.io/ea/word/vq5683.jpeg",
+    ".pos-holder": "phrase",
+    ".textPronunciation": "/æt ðɪs steɪdʒ/",
+    ".definition": "at the current point in some event or situation; currently",
+    ".example": "We'll have to wait and see. There isn't much we can do at this stage."
+  },
+  {
+    "h3": "all but",
+    "img": "https://cdn.ejoy.io/ea/word/vq5684.jpeg",
+    ".pos-holder": "phrase",
+    ".textPronunciation": "/ɔl bʌt/",
+    ".definition": "almost completely",
+    ".example": "In some places, bus service has all but disappeared."
+  },
+  {
+    "h3": "thanks to",
+    "img": "https://cdn.ejoy.io/ea/word/vq5685.jpeg",
+    ".pos-holder": "phrase",
+    ".textPronunciation": "/θæŋks tu/",
+    ".definition": "because of someone or something",
+    ".example": "And it’s thanks to her research that we know that."
+  },
+  {
+    "h3": "go away",
+    "img": "https://cdn.ejoy.io/ea/word/vq5686.jpeg",
+    ".pos-holder": "phrasal verb",
+    ".textPronunciation": "/ ɡoʊ əˈweɪ/",
+    ".definition": "to disappear",
+    ".example": "The problem won’t just go away."
+  },
+  {
+    "h3": "once more",
+    "img": "https://cdn.ejoy.io/ea/word/vq5687.jpeg",
+    ".pos-holder": "undefined",
+    ".textPronunciation": "/wʌns mɔr/",
+    ".definition": "another time",
+    ".example": "I’ll explain it once more, but listen this time."
+  },
+  {
+    "h3": "oh well",
+    "img": "https://cdn.ejoy.io/ea/word/vq5689.jpeg",
+    ".pos-holder": "expression",
+    ".textPronunciation": "/oʊ wɛl/",
+    ".definition": "used for accepting bad situation or disappointment.",
+    ".example": "\"I can't go out for cocktails Friday night.\" \"Oh well.\""
+  },
+  {
+    "h3": "would say",
+    "img": "https://cdn.ejoy.io/ea/word/vq5690.jpeg",
+    ".pos-holder": "undefined",
+    ".textPronunciation": "/wʊd seɪ/",
+    ".definition": "used for giving your opinion even though other people may not agree",
+    ".example": "I don’t know, but I would say at least twenty."
+  },
+  {
+    "h3": "found to",
+    "img": "https://cdn.ejoy.io/ea/word/vq5691.webp",
+    ".pos-holder": "undefined",
+    ".textPronunciation": "/fɑʊnd tu/",
+    ".definition": "having been discovered by chance or unexpectedly.",
+    ".example": "It was found to be of little use in battle."
+  },
+  {
+    "h3": "meant to",
+    "img": "https://cdn.ejoy.io/ea/word/vq5692.jpeg",
+    ".pos-holder": "undefined",
+    ".textPronunciation": "/mɛnt tu/",
+    ".definition": "intended to (do or be something)",
+    ".example": "I haven’t seen it but it’s meant to be his best so far."
+  },
+  {
+    "h3": "something about",
+    "img": "https://cdn.ejoy.io/ea/word/vq5693.jpeg",
+    ".pos-holder": "undefined",
+    ".textPronunciation": "/ ˈsʌm·θɪŋ əˈbɑʊt/",
+    ".definition": "used to say that a person, situation etc has a quality or feature that you recognize but you cannot say exactly what it is",
+    ".example": "There’s something about her voice that I find really sexy."
+  },
+  {
+    "h3": "by now",
+    "img": "https://cdn.ejoy.io/ea/word/vq5694.jpeg",
+    ".pos-holder": "adv",
+    ".textPronunciation": "/ bɑɪ nɑʊ/",
+    ".definition": "At some time in the near past.",
+    ".example": "My parents should have arrived by now. I wonder what's keeping them."
+  },
+  {
+    "h3": "think so",
+    "img": "https://cdn.ejoy.io/ea/word/vq5858.jpeg",
+    ".pos-holder": "undefined",
+    ".textPronunciation": "/ θɪŋk soʊ/",
+    ".definition": "used to say that you agree with the fact that has just been stated earlier.",
+    ".example": "\"Do you think he's upset?\" \"I don't think so.\""
+  }
+]

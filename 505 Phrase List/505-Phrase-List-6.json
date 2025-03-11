@@ -1,0 +1,402 @@
+[
+  {
+    "h3": "switch on",
+    "img": "https://cdn.ejoy.io/ea/word/129027.jpeg",
+    ".pos-holder": "phrasal verb",
+    ".textPronunciation": "/swɪtʃ ɔn/",
+    ".definition": "to turn a light, machine, etc. on by pressing a button or switch",
+    ".example": "Switch on the video camera, please."
+  },
+  {
+    "h3": "take off",
+    "img": "https://cdn.ejoy.io/ea/word/129833.jpeg",
+    ".pos-holder": "phrasal verb",
+    ".textPronunciation": "/teɪk ɔf/",
+    ".definition": "(of an aircraft) to leave the ground and fly",
+    ".example": "When should we expect to take off?"
+  },
+  {
+    "h3": "come up with",
+    "img": "https://cdn.ejoy.io/ea/word/147310.png",
+    ".pos-holder": "phrasal verb",
+    ".textPronunciation": "/ kʌm ʌp wɪθ /",
+    ".definition": "to think of something such as an idea or a plan",
+    ".example": "He will come up with a great idea for the ad campaign."
+  },
+  {
+    "h3": "have something in common",
+    "img": "https://cdn.ejoy.io/ea/word/147941.jpeg",
+    ".pos-holder": "phrase",
+    ".textPronunciation": "/hæv ˈsʌmθɪŋ ɪn ˈkɑmən/",
+    ".definition": "to share the same interests or have similar characteristics",
+    ".example": "But these C.E.O.s have something in common. "
+  },
+  {
+    "h3": "keep up",
+    "img": "https://cdn.ejoy.io/ea/word/150189.jpeg",
+    ".pos-holder": "phrasal verb",
+    ".textPronunciation": "/kip ʌp/ ",
+    ".definition": "to continues without stopping",
+    ".example": "He could not keep up and dropped out of the race"
+  },
+  {
+    "h3": "have no idea",
+    "img": "https://cdn.ejoy.io/ea/word/150222.jpeg",
+    ".pos-holder": "phrase",
+    ".textPronunciation": "/hæv noʊ aɪˈdiə/",
+    ".definition": "do not know",
+    ".example": "I have no idea what to do with my life."
+  },
+  {
+    "h3": "take advantage of",
+    "img": "https://cdn.ejoy.io/ea/word/150245.PNG",
+    ".pos-holder": "idiom",
+    ".textPronunciation": "/teɪk ədˈvæntɪdʒ əv/",
+    ".definition": "to use an opportunity to achieve results, sometimes in an unfair way",
+    ".example": "Let’s take advantage of the good weather and go to the beach."
+  },
+  {
+    "h3": "hand over",
+    "img": "https://cdn.ejoy.io/ea/word/61656.jpeg",
+    ".pos-holder": "phrasal verb",
+    ".textPronunciation": "/hænd ˈoʊvər/",
+    ".definition": "the giving of control of or responsibility for something to someone else",
+    ".example": "The responsibility was expected to be handed over."
+  },
+  {
+    "h3": "in advance",
+    "img": "https://cdn.ejoy.io/ea/word/67941.jpeg",
+    ".pos-holder": "phrase",
+    ".textPronunciation": " /ɪn ədˈvæns/",
+    ".definition": "before a particular time, or before doing a particular thing",
+    ".example": "When you pay ahead (or in advance) you receive a discount"
+  },
+  {
+    "h3": "in question",
+    "img": "https://cdn.ejoy.io/ea/word/68031.jpeg",
+    ".pos-holder": "idiom",
+    ".textPronunciation": "/ɪn ˈkwɛstʃən/",
+    ".definition": "a subject or point open to controversy",
+    ".example": "The book in question was published last year."
+  },
+  {
+    "h3": "in the first place",
+    "img": "https://cdn.ejoy.io/ea/word/68065.jpeg",
+    ".pos-holder": "phrase",
+    ".textPronunciation": "/ɪn ðə fərst pleɪs/",
+    ".definition": "in the beginning",
+    ".example": "Why didn't you tell me in the first place?"
+  },
+  {
+    "h3": "on board",
+    "img": "https://cdn.ejoy.io/ea/word/ql11750092300.jpeg",
+    ".pos-holder": "idiom",
+    ".textPronunciation": "/ ˈɑːn ˈbɔrd/",
+    ".definition": "ready to participate; in agreement ",
+    ".example": " Before we agree to sign this contract with our new partner, we'd better make sure our president is on board."
+  },
+  {
+    "h3": "can't afford to",
+    "img": "https://cdn.ejoy.io/ea/word/ql11751599888.jpeg",
+    ".pos-holder": "idiom",
+    ".textPronunciation": "/ əˈfɔrd ˈtuː/",
+    ".definition": "don't have time for; don't want to ",
+    ".example": " Sorry, I can't afford to sit here and argue with you."
+  },
+  {
+    "h3": "at times",
+    "img": "https://cdn.ejoy.io/ea/word/vq5096.jpg",
+    ".pos-holder": "phrase",
+    ".textPronunciation": "/ æt, ət tɑɪmz/",
+    ".definition": "sometimes",
+    ".example": "You can be really annoying at times, you know"
+  },
+  {
+    "h3": "in accordance with",
+    "img": "https://cdn.ejoy.io/ea/word/vq5547.jpeg",
+    ".pos-holder": "noun",
+    ".textPronunciation": "/əkɔɹdəns/",
+    ".definition": "following or obeying a rule, law, wish, etc.:",
+    ".example": "In accordance with her wishes, she was buried in France"
+  },
+  {
+    "h3": "call on",
+    "img": "https://cdn.ejoy.io/ea/word/vq5695.jpeg",
+    ".pos-holder": "phrase",
+    ".textPronunciation": "/kɔl ɔn/",
+    ".definition": "to ask someone to do something",
+    ".example": "He decided to call on his members of staff for advice."
+  },
+  {
+    "h3": "all the way",
+    "img": "https://cdn.ejoy.io/ea/word/vq5696.jpeg",
+    ".pos-holder": "undefined",
+    ".textPronunciation": "/ɔl ði weɪ/",
+    ".definition": "as much as possible or completely",
+    ".example": "If you want to bring it up with the boss, I'll support you all the way."
+  },
+  {
+    "h3": "in effect",
+    "img": "https://cdn.ejoy.io/ea/word/vq5697.jpeg",
+    ".pos-holder": "adv",
+    ".textPronunciation": "/ ɪn ɪˈfekt/",
+    ".definition": "in truth or in practical terms",
+    ".example": "In effect it was like being in space."
+  },
+  {
+    "h3": "sight of",
+    "img": "https://cdn.ejoy.io/ea/word/vq5698.jpeg",
+    ".pos-holder": "undefined",
+    ".textPronunciation": "/sɑɪt ʌv,/",
+    ".definition": "something that is in someone's view",
+    ".example": "I can’t stand the sight of it, to tell you the truth."
+  },
+  {
+    "h3": "on the part of",
+    "img": "https://cdn.ejoy.io/ea/word/vq5699.jpeg",
+    ".pos-holder": "undefined",
+    ".textPronunciation": "/ɔn ði pɑrt ʌv/",
+    ".definition": "by or from (someone/ something)",
+    ".example": "There are no barriers on the part of the government."
+  },
+  {
+    "h3": "bring up",
+    "img": "https://cdn.ejoy.io/ea/word/vq5700.jpeg",
+    ".pos-holder": "phrasal verb",
+    ".textPronunciation": "/ brɪŋ ʌp/",
+    ".definition": "to talk about something",
+    ".example": "Did you manage to bring up the holiday pay?"
+  },
+  {
+    "h3": "so as to",
+    "img": "https://cdn.ejoy.io/ea/word/vq5701.jpeg",
+    ".pos-holder": "undefined",
+    ".textPronunciation": "/soʊ æz tu/",
+    ".definition": "In order to do something",
+    ".example": "She had put her hair up so as to look older"
+  },
+  {
+    "h3": "short of",
+    "img": "https://cdn.ejoy.io/ea/word/vq5702.jpeg",
+    ".pos-holder": "undefined",
+    ".textPronunciation": "/ʃɔrt ʌv/",
+    ".definition": "without actually doing something",
+    ".example": "Short of calling the doctor, I don’t know what to do."
+  },
+  {
+    "h3": "over the years",
+    "img": "https://cdn.ejoy.io/ea/word/vq5703.jpeg",
+    ".pos-holder": "undefined",
+    ".textPronunciation": "/ˈoʊ·vər ði jɪrz/",
+    ".definition": "during, throughout these years",
+    ".example": "She has over the years visited many cities."
+  },
+  {
+    "h3": "by no means",
+    "img": "https://cdn.ejoy.io/ea/word/vq5704.jpeg",
+    ".pos-holder": "undefined",
+    ".textPronunciation": "/ bɑɪ noʊ minz/",
+    ".definition": "used as a way of emphasizing a negative statement.",
+    ".example": "It was by no means excellent but still better than last year."
+  },
+  {
+    "h3": "could hardly",
+    "img": "https://cdn.ejoy.io/ea/word/vq5705.jpeg",
+    ".pos-holder": "undefined",
+    ".textPronunciation": "/kʊd ˈhɑrd·li/",
+    ".definition": "barely do something or have ability to do something at all",
+    ".example": "I could hardly wait for the weekend."
+  },
+  {
+    "h3": "prove to be",
+    "img": "https://cdn.ejoy.io/ea/word/vq5706.jpeg",
+    ".pos-holder": "undefined",
+    ".textPronunciation": "/pruv tu bi/",
+    ".definition": "To show or provide evidence of having a particular trait, attribute, or characteristic.",
+    ".example": "The bicycle proved to be of immense value."
+  },
+  {
+    "h3": "no matter",
+    "img": "https://cdn.ejoy.io/ea/word/vq5707.jpeg",
+    ".pos-holder": "undefined",
+    ".textPronunciation": "/ noʊ ˈmæt̬·ər/",
+    ".definition": "used for saying something is not important.",
+    ".example": "No matter what they say, it’s down to you now."
+  },
+  {
+    "h3": "at this point",
+    "img": "https://cdn.ejoy.io/ea/word/vq5708.jpeg",
+    ".pos-holder": "adv",
+    ".textPronunciation": "/ət ðɪs pɔɪnt/",
+    ".definition": "At the present moment; right now; currently",
+    ".example": "At this point, we are the best ranked football team in the country."
+  },
+  {
+    "h3": "in itself",
+    "img": "https://cdn.ejoy.io/ea/word/vq5709.jpg",
+    ".pos-holder": "phrase",
+    ".textPronunciation": "/ɪn ɪtˈself/",
+    ".definition": "when considered as the only thing.",
+    ".example": "The car in itself wasn’t enough incentive."
+  },
+  {
+    "h3": "the former",
+    "img": "https://cdn.ejoy.io/ea/word/vq5710.jpeg",
+    ".pos-holder": "noun",
+    ".textPronunciation": "/ðə ˈfɔr·mər/",
+    ".definition": "denoting the first or first mentioned of two people or things.",
+    ".example": "The former can actually require much more money."
+  },
+  {
+    "h3": "if only",
+    "img": "https://cdn.ejoy.io/ea/word/vq5711.jpeg",
+    ".pos-holder": "undefined",
+    ".textPronunciation": "/ ˈoʊn.li/",
+    ".definition": "used to express a wish, especially regretfully.",
+    ".example": "If only I had listened to you."
+  },
+  {
+    "h3": "yet to",
+    "img": "https://cdn.ejoy.io/ea/word/vq5712.jpeg",
+    ".pos-holder": "undefined",
+    ".textPronunciation": "/jet tu/",
+    ".definition": "in the future; still",
+    ".example": "The best was yet to come."
+  },
+  {
+    "h3": "up to",
+    "img": "https://cdn.ejoy.io/ea/word/vq5713.png",
+    ".pos-holder": "undefined",
+    ".textPronunciation": "/ʌp tu/",
+    ".definition": "to be the responsibility of someone",
+    ".example": "It's up to the manager to make the final decision."
+  },
+  {
+    "h3": "or whatever",
+    "img": "https://cdn.ejoy.io/ea/word/vq5714.jpeg",
+    ".pos-holder": "undefined",
+    ".textPronunciation": "/ɔr hwʌt̬ˈev·ər/",
+    ".definition": "or anything similar",
+    ".example": "Please help with donations of clothes, blankets or whatever you think might help."
+  },
+  {
+    "h3": "in the light of",
+    "img": "https://cdn.ejoy.io/ea/word/vq5715.jpeg",
+    ".pos-holder": "undefined",
+    ".textPronunciation": "/ɪn ðə lɑɪt ʌv,/",
+    ".definition": "because or as a result of",
+    ".example": "In the light of the problems we're having, we have no choice but to close the business."
+  },
+  {
+    "h3": "in the same way",
+    "img": "https://cdn.ejoy.io/ea/word/vq5716.jpeg",
+    ".pos-holder": "undefined",
+    ".textPronunciation": "/In ðə seɪm weɪ/",
+    ".definition": "to introduce a situation that you are comparing with one that you have just mentioned, because there is a strong similarity between them.",
+    ".example": "My parents are together and, if anything, closer than ever. In the same way, I also feel closer to both of them."
+  },
+  {
+    "h3": "that much",
+    "img": "https://cdn.ejoy.io/ea/word/vq5717.jpeg",
+    ".pos-holder": "adv",
+    ".textPronunciation": "/ðæt mʌtʃ/",
+    ".definition": "to a certain degree",
+    ".example": "I don’t go out that much."
+  },
+  {
+    "h3": "the extent to which",
+    "img": "https://cdn.ejoy.io/ea/word/vq5718.jpeg",
+    ".pos-holder": "undefined",
+    ".textPronunciation": "/ðə ɪkˈstent tu hwɪtʃ/",
+    ".definition": "size and importance of problem or situation; degree to which something happens",
+    ".example": "The extent to which the preceding can be asserted is largely dependent on what emerges in the study."
+  },
+  {
+    "h3": "for some time",
+    "img": "https://cdn.ejoy.io/ea/word/vq5719.jpeg",
+    ".pos-holder": "adv",
+    ".textPronunciation": "/fɔr sʌm, tɑɪm/",
+    ".definition": "for a long period of time",
+    ".example": "He’s actually been studying for some time now."
+  },
+  {
+    "h3": "in return",
+    "img": "https://cdn.ejoy.io/ea/word/vq5720.jpeg",
+    ".pos-holder": "undefined",
+    ".textPronunciation": "/ ɪn rɪˈtɜrn/",
+    ".definition": "as a response, exchange, or reward for something.",
+    ".example": "He leaves the house to his sister in return for her kindness."
+  },
+  {
+    "h3": "to death",
+    "img": "https://cdn.ejoy.io/ea/word/vq5721.jpeg",
+    ".pos-holder": "undefined",
+    ".textPronunciation": "/tu deθ/",
+    ".definition": "a lot, very much",
+    ".example": "The movie scared the kids to death."
+  },
+  {
+    "h3": "on the grounds",
+    "img": "https://cdn.ejoy.io/ea/word/vq5722.png",
+    ".pos-holder": "undefined",
+    ".textPronunciation": "/ɔn ðə ɡrɑʊndz/",
+    ".definition": "on the basis, based on",
+    ".example": "The decision was made on the grounds of safety."
+  },
+  {
+    "h3": "oh dear",
+    "img": "https://cdn.ejoy.io/ea/word/vq5723.jpeg",
+    ".pos-holder": "expression",
+    ".textPronunciation": "/oʊ dɪr/",
+    ".definition": "An expression of dismay, concern, or worry; strongly suggesting disapproval.",
+    ".example": "Oh dear, I’ve broken the lamp."
+  },
+  {
+    "h3": "in full",
+    "img": "https://cdn.ejoy.io/ea/word/vq5724.jpeg",
+    ".pos-holder": "undefined",
+    ".textPronunciation": "/ ɪn fʊl/",
+    ".definition": "completely",
+    ".example": "She paid in full."
+  },
+  {
+    "h3": "to some extent",
+    "img": "https://cdn.ejoy.io/ea/word/vq5725.jpeg",
+    ".pos-holder": "undefined",
+    ".textPronunciation": "/tu sʌm ɪkˈstent/",
+    ".definition": "Somewhat; partly; in a limited way or to a limited degree",
+    ".example": "It is to some extent what is considered standard."
+  },
+  {
+    "h3": "some kind of",
+    "img": "https://cdn.ejoy.io/ea/word/vq5726.jpeg",
+    ".pos-holder": "undefined",
+    ".textPronunciation": "/sʌm kɑɪnd ʌv/",
+    ".definition": "some unspecified type of thing or person",
+    ".example": "What are you, some kind of genius?"
+  },
+  {
+    "h3": "greater than",
+    "img": "https://cdn.ejoy.io/ea/word/vq5727.webp",
+    ".pos-holder": "undefined",
+    ".textPronunciation": "/ˈɡreɪ.t̬ɚ ðæn/",
+    ".definition": "having a larger number or amount than.",
+    ".example": "Anything greater than five is fine."
+  },
+  {
+    "h3": "happen to",
+    "img": "https://cdn.ejoy.io/ea/word/vq5728.png",
+    ".pos-holder": "undefined",
+    ".textPronunciation": "/ˈhæp·ən tu/",
+    ".definition": "to occur by accident or chance.",
+    ".example": "I just happen to know that story."
+  },
+  {
+    "h3": "held that",
+    "img": "https://cdn.ejoy.io/ea/word/vq5729.jpeg",
+    ".pos-holder": "undefined",
+    ".textPronunciation": "/held ðæt/",
+    ".definition": "believed an idea or opinion",
+    ".example": "The congress held that it was acceptable."
+  }
+]

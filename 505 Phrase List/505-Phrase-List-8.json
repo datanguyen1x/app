@@ -1,0 +1,402 @@
+[
+  {
+    "h3": "run out",
+    "img": "https://cdn.ejoy.io/ea/word/113395.jpg",
+    ".pos-holder": "phrasal verb",
+    ".textPronunciation": "/rʌn aʊt/",
+    ".definition": "to use something completely so that nothing is left",
+    ".example": "I've run out of milk."
+  },
+  {
+    "h3": "bear in mind",
+    "img": "https://cdn.ejoy.io/ea/word/12441.jpeg",
+    ".pos-holder": "idiom",
+    ".textPronunciation": "/bɛr ɪn maɪnd/",
+    ".definition": "to be mindful of or consider something",
+    ".example": "It was designed bearing in mind environmental impact."
+  },
+  {
+    "h3": "up to date",
+    "img": "https://cdn.ejoy.io/ea/word/147990.jpeg",
+    ".pos-holder": "adj",
+    ".textPronunciation": "/ʌp tu deɪt/",
+    ".definition": "modern, recent, or containing the latest information",
+    ".example": "I try to keep up to date."
+  },
+  {
+    "h3": "at risk",
+    "img": "https://cdn.ejoy.io/ea/word/147995.png",
+    ".pos-holder": "phrase",
+    ".textPronunciation": " /æt rɪsk/ ",
+    ".definition": " in danger of being harmed or damaged, or of dying",
+    ".example": "There’s no reason to put passers by at risk."
+  },
+  {
+    "h3": "might as well",
+    "img": "https://cdn.ejoy.io/ea/word/150348.jpeg",
+    ".pos-holder": "idiom",
+    ".textPronunciation": "/maɪt æz wɛl/",
+    ".definition": "used to suggest doing something, often when there is nothing better to do",
+    ".example": "We may as well start the meeting - the others will be here soon."
+  },
+  {
+    "h3": "day to day",
+    "img": "https://cdn.ejoy.io/ea/word/150368.jpeg",
+    ".pos-holder": "phrase",
+    ".textPronunciation": "/deɪ tu deɪ/",
+    ".definition": "happen every day or most days",
+    ".example": "They carried on with their day to day tasks."
+  },
+  {
+    "h3": "be in line with",
+    "img": "https://cdn.ejoy.io/ea/word/150619.jpeg",
+    ".pos-holder": "idiom",
+    ".textPronunciation": "/bi ɪn laɪn wɪð/",
+    ".definition": "to be in agreement with",
+    ".example": "She also said that any restoration must be in line with the original architectural style. "
+  },
+  {
+    "h3": "provide for",
+    "img": "https://cdn.ejoy.io/ea/word/151010.jpeg",
+    ".pos-holder": "phrasal verb",
+    ".textPronunciation": "/prəˈvaɪd fɔr/",
+    ".definition": "to give someone the things they need, such as money, food, or clothes",
+    ".example": "It's hard to make enough money to provide for such a large family."
+  },
+  {
+    "h3": "by contrast",
+    "img": "https://cdn.ejoy.io/ea/word/151111.jpeg",
+    ".pos-holder": "prep.phrase",
+    ".textPronunciation": "/bɑɪ ˈkɑntræst/",
+    ".definition": "make the differences between two things",
+    ".example": "The weather was by contrast a pleasant surprise."
+  },
+  {
+    "h3": "by way of",
+    "img": "https://cdn.ejoy.io/ea/word/151136.png",
+    ".pos-holder": "prep.phrase",
+    ".textPronunciation": "/bɑɪ weɪ əv/",
+    ".definition": "As a method or means of doing something.",
+    ".example": "It was only by way of bribery that they managed."
+  },
+  {
+    "h3": "mind you",
+    "img": "https://cdn.ejoy.io/ea/word/152345.jpeg",
+    ".pos-holder": "phrase",
+    ".textPronunciation": "/maɪnd ju/",
+    ".definition": "a phrase introducing something that should be taken into consideration",
+    ".example": "Mind you, that’s one reason why I go there."
+  },
+  {
+    "h3": "act on",
+    "img": "https://cdn.ejoy.io/ea/word/1560.jpeg",
+    ".pos-holder": "phrasal verb",
+    ".textPronunciation": "/ækt ɔn/",
+    ".definition": "Take action according to or in the light of",
+    ".example": "She never acted on that rage."
+  },
+  {
+    "h3": "add to",
+    "img": "https://cdn.ejoy.io/ea/word/1807.webp",
+    ".pos-holder": "phrasal verb",
+    ".textPronunciation": "/æd tu/",
+    ".definition": "to make something such as a feeling or a quality greater or more extreme",
+    ".example": "It does nothing to add to the scenery."
+  },
+  {
+    "h3": "consistent with",
+    "img": "https://cdn.ejoy.io/ej/def/10489.jpg",
+    ".pos-holder": "adj",
+    ".textPronunciation": "/kənˈsɪstənt/",
+    ".definition": "always behaving or happening in a similar, especially positive way",
+    ".example": "I have decided that the course of conduct which I am following is consistent with my sense of responsibility as president in time of war"
+  },
+  {
+    "h3": "even so",
+    "img": "https://cdn.ejoy.io/ea/word/44331.jpg",
+    ".pos-holder": "phrase",
+    ".textPronunciation": "/ˈivən soʊ/",
+    ".definition": "despite everything, for all that",
+    ".example": "Even so, it’s no way to treat a guest."
+  },
+  {
+    "h3": "in principle",
+    "img": "https://cdn.ejoy.io/ea/word/68028.jpeg",
+    ".pos-holder": "idiom",
+    ".textPronunciation": "/ɪn ˈprɪnsəpl/",
+    ".definition": "according to a rule",
+    ".example": "You can in principle."
+  },
+  {
+    "h3": "let alone",
+    "img": "https://cdn.ejoy.io/ea/word/76968.jpeg",
+    ".pos-holder": "idiom",
+    ".textPronunciation": "/lɛt əˈloʊn/",
+    ".definition": "not to mention",
+    ".example": "She can't boil potatoes, let alone cook a meal"
+  },
+  {
+    "h3": "as usual",
+    "img": "https://cdn.ejoy.io/ea/word/8453.jpeg",
+    ".pos-holder": "idiom",
+    ".textPronunciation": "/æz ˈju·ʒu·əl/",
+    ".definition": "in a way that often happens and is expected",
+    ".example": "There were definite low points, too.As usual. "
+  },
+  {
+    "h3": "old-fashioned",
+    "img": "https://cdn.ejoy.io/ea/word/92727.jpeg",
+    ".pos-holder": "adj",
+    ".textPronunciation": "/oʊld ˈfæʃnd/",
+    ".definition": "someone or something that is behind the times, not up to date and often no longer considered relevant",
+    ".example": "He’s just a bit old fashioned sometimes."
+  },
+  {
+    "h3": "on the road",
+    "img": "https://cdn.ejoy.io/ea/word/92995.jpeg",
+    ".pos-holder": "phrase",
+    ".textPronunciation": "/ɔn ðə roʊd/",
+    ".definition": "traveling, especially for long distances or periods of time",
+    ".example": "I can’t wait to get on the road again."
+  },
+  {
+    "h3": "First of all",
+    "img": "https://cdn.ejoy.io/ea/word/ecbi_12230.png",
+    ".pos-holder": "expression",
+    ".textPronunciation": "/fərst əv ɔl/",
+    ".definition": "used to introduce the first item on a list, often used when giving instructions",
+    ".example": "First of all, I'll introduce the new members in the meeting."
+  },
+  {
+    "h3": "half past",
+    "img": "https://cdn.ejoy.io/ej/def/21694.jpg",
+    ".pos-holder": "expression",
+    ".textPronunciation": "/hæf pæst/",
+    ".definition": "30 minutes after any hour",
+    ".example": "I left the party at 1:00 am and reached home half past that."
+  },
+  {
+    "h3": "for sale",
+    "img": "https://cdn.ejoy.io/ea/word/ecbi_2980.jpeg",
+    ".pos-holder": "adj",
+    ".textPronunciation": "/fɔɹ seɪɭ/",
+    ".definition": "available for purchase; able to be bought",
+    ".example": "All items in the store are for sale."
+  },
+  {
+    "h3": "come across",
+    "img": "https://cdn.ejoy.io/ea/word/evo000159352.jpg",
+    ".pos-holder": "verb",
+    ".textPronunciation": "/kʌm əˈkrɒs/",
+    ".definition": "find unexpectedly",
+    ".example": "I come across you useful site while searching for a hotel near the airport."
+  },
+  {
+    "h3": "in conjunction with",
+    "img": "https://cdn.ejoy.io/ea/word/vq412.png",
+    ".pos-holder": "idiom",
+    ".textPronunciation": "/ ɪn kənˈdʒʌŋk·ʃən wɪθ, wɪð/",
+    ".definition": "in addition to,alongside",
+    ".example": "The police, in conjunction with the fire department, managed to keep the crowd under control."
+  },
+  {
+    "h3": "as yet",
+    "img": "https://cdn.ejoy.io/ea/word/vq5762.jpeg",
+    ".pos-holder": "adv",
+    ".textPronunciation": "/æz jet/",
+    ".definition": "still; until the present time",
+    ".example": "I’m not convinced as yet."
+  },
+  {
+    "h3": "a mere",
+    "img": "https://cdn.ejoy.io/ea/word/vq5763.jpeg",
+    ".pos-holder": "undefined",
+    ".textPronunciation": "/ ə mɪər/",
+    ".definition": "used to emphasize that something is not large or important",
+    ".example": "It cost a mere 20 dollars."
+  },
+  {
+    "h3": "shown to",
+    "img": "https://cdn.ejoy.io/ea/word/vq5764.png",
+    ".pos-holder": "undefined",
+    ".textPronunciation": "/ʃoʊn tu/",
+    ".definition": "proved to exist or be true",
+    ".example": "Dogs have been shown to help."
+  },
+  {
+    "h3": "on the one hand",
+    "img": "https://cdn.ejoy.io/ea/word/vq5765.jpeg",
+    ".pos-holder": "conj",
+    ".textPronunciation": "/ɔn ði wʌn hænd/",
+    ".definition": "used to introduce a point of view, fact, or situation, followed by another that typically contrasts with it.",
+    ".example": "On the one hand I'd like a job that pays more, but on the other hand I enjoy the work I'm doing at the moment."
+  },
+  {
+    "h3": "or anything",
+    "img": "https://cdn.ejoy.io/ea/word/vq5766.jpeg",
+    ".pos-holder": "undefined",
+    ".textPronunciation": "/ər ˈen·iˌθɪŋ/",
+    ".definition": "added as a general reference to other things similar to the thing mentioned",
+    ".example": "I don’t want any trouble or anything."
+  },
+  {
+    "h3": "most likely",
+    "img": "https://cdn.ejoy.io/ea/word/vq5767.png",
+    ".pos-holder": "adv",
+    ".textPronunciation": "/ moʊst ˈlɑɪk·li/",
+    ".definition": "very probably",
+    ".example": "It is most likely the reason for the warming."
+  },
+  {
+    "h3": "limited to",
+    "img": "https://cdn.ejoy.io/ea/word/vq5768.png",
+    ".pos-holder": "undefined",
+    ".textPronunciation": "/ˈlɪm·ɪ·t̬ɪd tu/",
+    ".definition": "to indicate something that exists or happens only in a particular place or within a particular group.",
+    ".example": "The dinner was limited to seniors."
+  },
+  {
+    "h3": "to me",
+    "img": "https://cdn.ejoy.io/ea/word/vq5769.jpeg",
+    ".pos-holder": "undefined",
+    ".textPronunciation": "/tu mi/",
+    ".definition": "in my opinion",
+    ".example": "To me what matters is that it gets done."
+  },
+  {
+    "h3": "at a time",
+    "img": "https://cdn.ejoy.io/ea/word/vq5770.jpeg",
+    ".pos-holder": "adv",
+    ".textPronunciation": "/ət ə tɑɪm/",
+    ".definition": "during any one period",
+    ".example": "I can only do one thing at a time."
+  },
+  {
+    "h3": "with respect to",
+    "img": "https://cdn.ejoy.io/ea/word/vq5771.jpeg",
+    ".pos-holder": "undefined",
+    ".textPronunciation": "/wɪθ, rɪˈspekt tu/",
+    ".definition": "concerning or in relation to something",
+    ".example": "She had nothing to add with respect to the report."
+  },
+  {
+    "h3": "way out",
+    "img": "https://cdn.ejoy.io/ea/word/vq5772.jpg",
+    ".pos-holder": "adv",
+    ".textPronunciation": "/ weɪ ɑʊt/",
+    ".definition": "somewhere far away",
+    ".example": "He lives way out in the country."
+  },
+  {
+    "h3": "third party",
+    "img": "https://cdn.ejoy.io/ea/word/vq5773.webp",
+    ".pos-holder": "noun",
+    ".textPronunciation": "/ θɜrd ˈpɑr·t̬i/",
+    ".definition": "a person or group besides the two primarily involved in a situation, especially a dispute.",
+    ".example": "They work with third party software too."
+  },
+  {
+    "h3": "contrary to",
+    "img": "https://cdn.ejoy.io/ea/word/vq5774.png",
+    ".pos-holder": "undefined",
+    ".textPronunciation": "/ˈkɑnˌtrer·i tu/",
+    ".definition": "conflicting with; counter to",
+    ".example": "Contrary to his expectations, he found the atmosphere exciting."
+  },
+  {
+    "h3": "worth of",
+    "img": "https://cdn.ejoy.io/ea/word/vq5775.jpeg",
+    ".pos-holder": "adj",
+    ".textPronunciation": "/wɜrθ ʌv/",
+    ".definition": "the amount of money that something can be sold for",
+    ".example": "The estimated worth of her jewels alone is about $30 million."
+  },
+  {
+    "h3": "a good",
+    "img": "https://cdn.ejoy.io/ea/word/vq5776.jpeg",
+    ".pos-holder": "undefined",
+    ".textPronunciation": "/ ə ɡʊd/",
+    ".definition": "this much or more of a specific amount",
+    ".example": "It’s a good half hour’s walk to the stadium from here."
+  },
+  {
+    "h3": "except that",
+    "img": "https://cdn.ejoy.io/ea/word/vq5777.jpeg",
+    ".pos-holder": "undefined",
+    ".textPronunciation": "/ɪkˈsept ðæt/",
+    ".definition": "used to give a reason why something is not possible or true",
+    ".example": "The exam went pretty well, except that I misread the final question."
+  },
+  {
+    "h3": "long before",
+    "img": "https://cdn.ejoy.io/ea/word/vq5778.jpeg",
+    ".pos-holder": "adv",
+    ".textPronunciation": "/lɔŋ bɪˈfɔr/",
+    ".definition": "a long time before/earlier/a",
+    ".example": "Long before I could quit I was offered a promotion."
+  },
+  {
+    "h3": "long ago",
+    "img": "https://cdn.ejoy.io/ea/word/vq5779.webp",
+    ".pos-holder": "adv",
+    ".textPronunciation": "/ lɔŋ əˈɡoʊ/",
+    ".definition": "in the distant past.",
+    ".example": "I gave up on that idea long ago."
+  },
+  {
+    "h3": "quite a lot",
+    "img": "https://cdn.ejoy.io/ea/word/vq5780.jpeg",
+    ".pos-holder": "adv",
+    ".textPronunciation": "/ kwɑɪt ə lɑt/",
+    ".definition": "a considerable amount.",
+    ".example": "My job involves quite a lot of travel."
+  },
+  {
+    "h3": "if you like",
+    "img": "https://cdn.ejoy.io/ea/word/vq5781.jpeg",
+    ".pos-holder": "phrase",
+    ".textPronunciation": "/ɪf ju lɑɪk/",
+    ".definition": "used when expressing something in a new or unusual way.",
+    ".example": "It's a whole new branch of chemistry, a new science if you like"
+  },
+  {
+    "h3": "to the extent",
+    "img": "https://cdn.ejoy.io/ea/word/vq5782.jpeg",
+    ".pos-holder": "phrase",
+    ".textPronunciation": "/tu ði ɪkˈstent/",
+    ".definition": "to emphasize that a situation has reached a difficult, dangerous, or surprising stage.",
+    ".example": "He’s interesting to the extent that he knows a lot."
+  },
+  {
+    "h3": "so far as",
+    "img": "https://cdn.ejoy.io/ea/word/vq5783.jpeg",
+    ".pos-holder": "phrase",
+    ".textPronunciation": "/soʊ fɑr æz/",
+    ".definition": "to the extent or point that",
+    ".example": "So far as I know it’s not the first time either."
+  },
+  {
+    "h3": "given that",
+    "img": "https://cdn.ejoy.io/ea/word/vq5784.jpeg",
+    ".pos-holder": "conj",
+    ".textPronunciation": "/ˈɡɪv·ən ðæt/",
+    ".definition": "Assuming that; in consideration of the fact that",
+    ".example": "It was no surprise given that it was her job."
+  },
+  {
+    "h3": "on the whole",
+    "img": "https://cdn.ejoy.io/ea/word/vq5785.jpeg",
+    ".pos-holder": "adv",
+    ".textPronunciation": "/ɔn ðə hoʊl/",
+    ".definition": "taking everything into account; in general.",
+    ".example": "It was acceptable on the whole."
+  },
+  {
+    "h3": "care to",
+    "img": "https://cdn.ejoy.io/ea/word/vq5786.jpeg",
+    ".pos-holder": "phrase",
+    ".textPronunciation": "/keər tu/",
+    ".definition": "To be interested in doing a particular action or activity. Often used in the negative to mean the opposite.",
+    ".example": "No thanks, I don't care to jog today—my legs still hurt from yesterday's trip to the gym"
+  }
+]

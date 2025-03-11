@@ -8,9 +8,7 @@
     <style>
         body {
             font-family: 'Arial', sans-serif;
-            /* More readable font */
             background-color: #e6f7ff;
-            /* Softer background color */
             margin: 0;
             padding: 0;
             display: flex;
@@ -36,13 +34,6 @@
             perspective: 1000px;
             transition: all 0.3s ease;
             /* Smooth hover transition */
-        }
-
-        .card:hover {
-            transform: scale(1.01);
-            /* Subtle scale on hover */
-            box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
-            /* Enhanced shadow on hover */
         }
 
         .card-inner {
@@ -98,11 +89,6 @@
             /* Image hover effect */
         }
 
-        .card img:hover {
-            transform: scale(1.1);
-            /* Subtle zoom on image hover */
-        }
-
         .card h3 {
             font-size: 1.6em;
             /* Slightly larger heading */
@@ -116,74 +102,110 @@
         .pos {
             font-style: italic;
             color: #6a7f96;
-            /* Improved color */
             margin-bottom: 12px;
         }
 
         .pronun {
             color: #546e7a;
-            /* Improved color */
             margin-bottom: 12px;
         }
 
         .defin {
             font-weight: 600;
-            /* Semi-bold definition */
             margin-bottom: 12px;
             color: #34495e;
-            /* Improved color */
         }
 
         .exam {
             font-style: italic;
             color: #546e7a;
-            /* Improved color */
             line-height: 1.4;
-            /* Improved readability */
+        }
+
+        #data-source-select {
+            position: fixed;
+            left: 0;
+            bottom: 0;
+            margin: 10px;
+            padding: 8px;
+            font-size: 16px;
+            z-index: 999;
         }
     </style>
 </head>
 
 <body>
+    <select id="data-source-select">
+        <option value="505 Phrase List/505-Phrase-List-1.json">List 1</option>
+        <option value="505 Phrase List/505-Phrase-List-2.json">List 2</option>
+        <option value="505 Phrase List/505-Phrase-List-3.json">List 3</option>
+        <option value="505 Phrase List/505-Phrase-List-4.json">List 4</option>
+        <option value="505 Phrase List/505-Phrase-List-5.json">List 5</option>
+        <option value="505 Phrase List/505-Phrase-List-6.json">List 6</option>
+        <option value="505 Phrase List/505-Phrase-List-7.json">List 7</option>
+        <option value="505 Phrase List/505-Phrase-List-8.json">List 8</option>
+        <option value="505 Phrase List/505-Phrase-List-9.json">List 9</option>
+        <option value="505 Phrase List/505-Phrase-List-10.json">List 10</option>
+        <!-- Thêm các tùy chọn khác nếu cần -->
+    </select>
     <div class="container"></div>
 
     <script>
-        fetch('505 Phrase List/505-Phrase-List-1.json')
-            .then(res => res.json())
-            .then(data => localStorage.setItem("data1", JSON.stringify(data)))
-            .catch(error => console.error(error));
+        const dataSourceSelect = document.getElementById('data-source-select');
+        const container = document.querySelector('.container');
 
-        let container = document.querySelector('.container');
+        // Hàm để tải dữ liệu và tạo thẻ flashcard
+        const loadData = (url) => {
+            fetch(url)
+                .then(res => res.json())
+                .then(data => {
+                    localStorage.setItem("data1", JSON.stringify(data));
+                    createCards(data);
+                })
+                .catch(error => console.error(error));
+        };
 
-        let data = JSON.parse(localStorage.getItem('data1'));
-        data.forEach(element => {
-            let card = document.createElement('div');
-            card.classList.add('card');
 
-            card.innerHTML = `
-                <div class="card-inner">
-                    <div class="card-front">
-                        <img src="${element.img}" alt="">
-                        <h3>${element.h3}</h3>
-                        <div class="pos">${element['.pos-holder']}</div>
-                        <div class="pronun">${element['.textPronunciation']}</div>
+        const createCards = (data) => {
+            container.innerHTML = ''; // Xóa các thẻ hiện có
+            data.forEach(element => {
+                let card = document.createElement('div');
+                card.classList.add('card');
+
+
+
+                card.innerHTML = `
+                    <div class="card-inner">
+                        <div class="card-front">
+                            <img src="${element.img}" alt="">
+                            <h3>${element.h3}</h3>
+                            <div class="pos">${element['.pos-holder']}</div>
+                            <div class="pronun">${element['.textPronunciation']}</div>
+                        </div>
+                        <div class="card-back">
+                            <div class="defin">${element['.definition']}</div>
+                            <div class="exam">${element['.example']}</div>
+                        </div>
                     </div>
-                    <div class="card-back">
-                        <div class="defin">${element['.definition']}</div>
-                        <div class="exam">${element['.example']}</div>
-                    </div>
-                </div>
-            `;
+                `;
 
-            // Flip card on click
-            card.addEventListener('click', () => {
-                const cardInner = card.querySelector('.card-inner');
-                cardInner.style.transform =
-                    cardInner.style.transform === 'rotateY(180deg)' ?
-                        'rotateY(0deg)' : 'rotateY(180deg)';
+                card.addEventListener('click', () => {
+                    const cardInner = card.querySelector('.card-inner');
+                    cardInner.style.transform =
+                        cardInner.style.transform === 'rotateY(180deg)' ?
+                            'rotateY(0deg)' : 'rotateY(180deg)';
+                });
+
+                container.appendChild(card);
             });
+        };
 
-            container.appendChild(card);
+        // Tải dữ liệu ban đầu
+        loadData(dataSourceSelect.value);
+
+        // Theo dõi các thay đổi trong lựa chọn nguồn dữ liệu
+        dataSourceSelect.addEventListener('change', () => {
+            loadData(dataSourceSelect.value);
         });
     </script>
 </body>

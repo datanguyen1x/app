@@ -1,0 +1,418 @@
+[
+  {
+    "h3": "put together",
+    "img": "https://cdn.ejoy.io/ea/word/106702.jpeg",
+    ".pos-holder": "phrase",
+    ".textPronunciation": "/pʊt təˈɡɛðər/",
+    ".definition": "create by putting components or members together",
+    ".example": "After his first band failed, he put together a second orchestra."
+  },
+  {
+    "h3": "take care of",
+    "img": "https://cdn.ejoy.io/ea/word/129802.jpg",
+    ".pos-holder": "phrase",
+    ".textPronunciation": "/teɪk kɛr əv/",
+    ".definition": "to care for someone or something/yourself; to be careful about something",
+    ".example": "Who will take care of the children?"
+  },
+  {
+    "h3": "take for granted",
+    "img": "https://cdn.ejoy.io/ea/word/129813.jpeg",
+    ".pos-holder": "idiom",
+    ".textPronunciation": "/teɪk fɔr ˈɡræntəd/",
+    ".definition": "to believe something is true or will happen because it seems so likely",
+    ".example": "People take for granted what she does."
+  },
+  {
+    "h3": "make use of",
+    "img": "https://cdn.ejoy.io/ea/word/148025.jpg",
+    ".pos-holder": "phrase",
+    ".textPronunciation": " /meɪk jus əv/ ",
+    ".definition": "to use someone or something for a particular purpose, especially one that brings a benefit to you",
+    ".example": "We might as well make use of the hotel's facilities."
+  },
+  {
+    "h3": "the other day",
+    "img": "https://cdn.ejoy.io/ea/word/148395.jpeg",
+    ".pos-holder": "adv.phrase",
+    ".textPronunciation": "/ði ˈʌðər deɪ/",
+    ".definition": "a few days ago",
+    ".example": "I only heard this the other day. "
+  },
+  {
+    "h3": "head to",
+    "img": "https://cdn.ejoy.io/ea/word/150302.jpeg",
+    ".pos-holder": "phrase",
+    ".textPronunciation": "/hɛd tu/",
+    ".definition": "to go straightly to",
+    ".example": "Meanwhile, he decided to head to the hospital."
+  },
+  {
+    "h3": "as good as",
+    "img": "https://cdn.ejoy.io/ea/word/150845.jpeg",
+    ".pos-holder": "idiom",
+    ".textPronunciation": "/æz ɡʊd æz/",
+    ".definition": "nearly, almost",
+    ".example": "The decorating is as good as finished - I just need to finish off the painting."
+  },
+  {
+    "h3": "for good",
+    "img": "https://cdn.ejoy.io/ea/word/150869.jpeg",
+    ".pos-holder": "idiom",
+    ".textPronunciation": "/fɔr ɡʊd/",
+    ".definition": "permanently",
+    ".example": "The experience almost frightened me away for good"
+  },
+  {
+    "h3": "allow for",
+    "img": "https://cdn.ejoy.io/ea/word/4039.jpeg",
+    ".pos-holder": "phrasal verb",
+    ".textPronunciation": "/əˈlaʊ fɔr/",
+    ".definition": " to consider something when making a plan or calculation",
+    ".example": "We have to allow for the possibility that we might not finish on schedule."
+  },
+  {
+    "h3": "fill in",
+    "img": "https://cdn.ejoy.io/ea/word/48378.jpeg",
+    ".pos-holder": "phrasal verb",
+    ".textPronunciation": "/fɪl ɪn/",
+    ".definition": "to write in (blanks, etc.) complete by writing in",
+    ".example": "The victim filled in what was stolen."
+  },
+  {
+    "h3": "get away",
+    "img": "https://cdn.ejoy.io/ea/word/57460.jpeg",
+    ".pos-holder": "phrasal verb",
+    ".textPronunciation": "/ɡɛt əˈweɪ/ ",
+    ".definition": "to escape from a person or place",
+    ".example": "\"Get away from me\", Yuki said to the growling dog."
+  },
+  {
+    "h3": "in theory",
+    "img": "https://cdn.ejoy.io/ea/word/68081.jpeg",
+    ".pos-holder": "idiom",
+    ".textPronunciation": "/ɪn ˈθɪri/",
+    ".definition": "in scientific explanation",
+    ".example": "Once we understand this we can shape our world in any way we want.In theory\". "
+  },
+  {
+    "h3": "in the meantime",
+    "img": "https://cdn.ejoy.io/ea/word/e90167.jpeg",
+    ".pos-holder": "idiom",
+    ".textPronunciation": "/ɪn ðə mintaɪm/",
+    ".definition": "during the time before something happens or before a specified period ends",
+    ".example": "He can work when he's feeling better, in the meantime, he should rest."
+  },
+  {
+    "h3": "shut up",
+    "img": "https://o.quizlet.com/tX-5DVr4BCp80ShbzpZKog_m.jpg",
+    ".pos-holder": "phrasal verb",
+    ".textPronunciation": "/ ˈʃʌt ˈʌp/",
+    ".definition": "be quiet; stop speaking; stop speaking",
+    ".example": "Nicole kept telling Teb to turn down his stereo. Finally, he got angry and said \"shut up\""
+  },
+  {
+    "h3": "catch up",
+    "img": "https://cdn.ejoy.io/ea/word/ql8486299491.jpeg",
+    ".pos-holder": "phrasal verb",
+    ".textPronunciation": "/kæʈʃ əp/",
+    ".definition": "to reach the same quality or standard as someone or something else",
+    ".example": "He was off school for a while and is finding it hard to catch up."
+  },
+  {
+    "h3": "in need",
+    "img": "https://cdn.ejoy.io/ea/word/vq5177.png",
+    ".pos-holder": "verb",
+    ".textPronunciation": "/ɪn niːd/",
+    ".definition": "the state of being necessary",
+    ".example": "You just hope that the money goes to those who are most in need"
+  },
+  {
+    "h3": "take account of",
+    "img": "https://cdn.ejoy.io/ea/word/vq5787.png",
+    ".pos-holder": "phrase",
+    ".textPronunciation": "/teɪk əˈkɑʊnt ʌv/",
+    ".definition": "consider something when making decision",
+    ".example": "We did not take account of the paperwork."
+  },
+  {
+    "h3": "something like that",
+    "img": "https://cdn.ejoy.io/ea/word/vq5788.jpeg",
+    ".pos-holder": "phrase",
+    ".textPronunciation": "/ˈsʌm·θɪŋ lɑɪk ðæt/",
+    ".definition": "Something along those lines; something similar to that.",
+    ".example": "He said he had a meeting to go to or something like that."
+  },
+  {
+    "h3": "when it comes to",
+    "img": "https://cdn.ejoy.io/ea/word/vq5789.jpeg",
+    ".pos-holder": "phrase",
+    ".textPronunciation": "/wɛn ɪt kʌmz tu/",
+    ".definition": "used to identify the specific topic that is being talked about",
+    ".example": "I’m hopeless when it comes to goodbyes."
+  },
+  {
+    "h3": "for all",
+    "img": "https://cdn.ejoy.io/ea/word/vq5790.jpeg",
+    ".pos-holder": "phrase",
+    ".textPronunciation": "/fɔr ɔl/",
+    ".definition": "in spite of something; considering how much or little",
+    ".example": "For all his money, he does not seem very happy."
+  },
+  {
+    "h3": "a question of",
+    "img": "https://cdn.ejoy.io/ea/word/vq5791.png",
+    ".pos-holder": "phrase",
+    ".textPronunciation": "/ə ˈkwes·tʃən ʌv/",
+    ".definition": "an issue involving something",
+    ".example": "It’s a question of trust."
+  },
+  {
+    "h3": "for life",
+    "img": "https://cdn.ejoy.io/ea/word/vq5792.jpeg",
+    ".pos-holder": "adv",
+    ".textPronunciation": "/fɔr lɑɪf/",
+    ".definition": "for the rest of a person's life",
+    ".example": "And he stayed there for life."
+  },
+  {
+    "h3": "something of a",
+    "img": "https://cdn.ejoy.io/ea/word/vq5793.jpeg",
+    ".pos-holder": "phrase",
+    ".textPronunciation": "/ˈsʌm·θɪŋ ʌv ə/",
+    ".definition": "used to describe a person or thing in a way that is partly true but not completely or exactly",
+    ".example": "I have a biology question for you - I hear you're something of an expert."
+  },
+  {
+    "h3": "the odd",
+    "img": "https://cdn.ejoy.io/ea/word/vq5794.jpeg",
+    ".pos-holder": "phrase",
+    ".textPronunciation": "/ði ɑd/",
+    ".definition": "something that is different from what is usual or expected",
+    ".example": "I do play the odd jazz tune."
+  },
+  {
+    "h3": "little more than",
+    "img": "https://cdn.ejoy.io/ea/word/vq5795.jpeg",
+    ".pos-holder": "phrase",
+    ".textPronunciation": "/ˈlɪt̬·əl mɔr ðæn/",
+    ".definition": "used for emphasizing that someone or something is not at all important or impressive",
+    ".example": "The ancient canal is now little more than a muddy ditch."
+  },
+  {
+    "h3": "would you like",
+    "img": "https://cdn.ejoy.io/ea/word/vq5796.jpeg",
+    ".pos-holder": "phrase",
+    ".textPronunciation": "/wʊd ju laɪk/",
+    ".definition": "used for offering something to someone or inviting them to do something",
+    ".example": "Would you like some cake?"
+  },
+  {
+    "h3": "in this respect",
+    "img": "https://cdn.ejoy.io/ea/word/vq5797.jpeg",
+    ".pos-holder": "phrase",
+    ".textPronunciation": "/ ɪn ðɪs rɪˈspekt/",
+    ".definition": "to indicate that what you are saying applies to the feature you have just mentioned or to many features of something",
+    ".example": "In this respect, our study refutes earlier research."
+  },
+  {
+    "h3": "provided that",
+    "img": "https://cdn.ejoy.io/ea/word/vq5798.jpeg",
+    ".pos-holder": "conj",
+    ".textPronunciation": "/prəˈvaɪ.dɪd ðət/",
+    ".definition": "if, or only if",
+    ".example": "He's welcome to come along, provided that he behaves himself."
+  },
+  {
+    "h3": "have a go",
+    "img": "https://cdn.ejoy.io/ea/word/vq5799.jpeg",
+    ".pos-holder": "phrase",
+    ".textPronunciation": "/hæv ə ɡoʊ/",
+    ".definition": "to make an attempt at (doing something)",
+    ".example": "Why don’t you have a go?"
+  },
+  {
+    "h3": "for the moment",
+    "img": "https://cdn.ejoy.io/ea/word/vq5800.jpeg",
+    ".pos-holder": "adv",
+    ".textPronunciation": "/fɔr ðə ˈmoʊ·mənt/",
+    ".definition": "for now",
+    ".example": "For the moment things seem stable."
+  },
+  {
+    "h3": "at the expense of",
+    "img": "https://cdn.ejoy.io/ea/word/vq5801.jpeg",
+    ".pos-holder": "phrase",
+    ".textPronunciation": "/æt ði ɪkˈspens ʌv/",
+    ".definition": "If you do one thing at the expense of another, doing the first thing harms the second thing",
+    ".example": "He had no need to protect their reputation at the expense of his own."
+  },
+  {
+    "h3": "things like that",
+    "img": "https://cdn.ejoy.io/ea/word/vq5802.jpeg",
+    ".pos-holder": "phrase",
+    ".textPronunciation": "/θɪŋz laɪk ðæt/",
+    ".definition": "to indicate nonspecific things that are similar or somehow related to those being listed or discussed",
+    ".example": "He does karate and things like that, you see."
+  },
+  {
+    "h3": "of little",
+    "img": "https://cdn.ejoy.io/ea/word/vq5803.jpeg",
+    ".pos-holder": "phrase",
+    ".textPronunciation": "/əv ˈlɪt̬·əl/",
+    ".definition": "very little in size or amount",
+    ".example": "It was of little relevance, really."
+  },
+  {
+    "h3": "as of",
+    "img": "https://cdn.ejoy.io/ea/word/vq5804.jpeg",
+    ".pos-holder": "adv",
+    ".textPronunciation": "/æz ʌv/",
+    ".definition": "used to indicate the time or date from which something starts.",
+    ".example": "I'm out of a job as of now"
+  },
+  {
+    "h3": "over time",
+    "img": "https://cdn.ejoy.io/ea/word/vq5805.jpeg",
+    ".pos-holder": "adv",
+    ".textPronunciation": "/ ˈoʊ·vər tɑɪm/",
+    ".definition": "gradually",
+    ".example": "It might change over time."
+  },
+  {
+    "h3": "would appear",
+    "img": "https://cdn.ejoy.io/ea/word/vq5806.jpeg",
+    ".pos-holder": "phrase",
+    ".textPronunciation": "/wʊd əˈpɪər/",
+    ".definition": "to seem",
+    ".example": "It would appear nobody on board the aircraft actually had a licence to fly it."
+  },
+  {
+    "h3": "thought of",
+    "img": "https://cdn.ejoy.io/ea/word/vq5807.jpeg",
+    ".pos-holder": "phrase",
+    ".textPronunciation": "/θɔt ʌv/",
+    ".definition": "considered  in a particular way",
+    ".example": "Beaches are thought of as vacation spots."
+  },
+  {
+    "h3": "opposed to",
+    "img": "https://cdn.ejoy.io/ea/word/vq5808.jpeg",
+    ".pos-holder": "undefined",
+    ".textPronunciation": "/əˈpoʊzd tu/",
+    ".definition": "eager to prevent or put an end to; disapproving of or disagreeing with.",
+    ".example": "He’s strangely opposed to gun control."
+  },
+  {
+    "h3": "common sense",
+    "img": "https://cdn.ejoy.io/ea/word/vq5809.webp",
+    ".pos-holder": "undefined",
+    ".textPronunciation": "/ ˈkɑm·ən sens/",
+    ".definition": "the basic level of practical knowledge and judgment that we all need to help us live in a reasonable and safe way",
+    ".example": "Windsurfing is perfectly safe as long as you have some common sense."
+  },
+  {
+    "h3": "bother to",
+    "img": "https://cdn.ejoy.io/ea/word/vq5810.jpeg",
+    ".pos-holder": "undefined",
+    ".textPronunciation": "/ˈbɑð·ər tu/",
+    ".definition": "to make the effort to do something",
+    ".example": "It peeves me that she didn't bother to phone."
+  },
+  {
+    "h3": "back up",
+    "img": "https://cdn.ejoy.io/ea/word/vq5811.jpeg",
+    ".pos-holder": "phrasal verb",
+    ".textPronunciation": "/ bæk ʌp/",
+    ".definition": "to prove something is right",
+    ".example": "I have proof to back up my story."
+  },
+  {
+    "h3": "go round",
+    "img": "https://cdn.ejoy.io/ea/word/vq5812.jpeg",
+    ".pos-holder": "undefined",
+    ".textPronunciation": "/ ɡoʊ rɑʊnd/",
+    ".definition": "to visit a person or a place",
+    ".example": "I'll go round later and see how he is."
+  },
+  {
+    "h3": "the whole thing",
+    "img": "https://cdn.ejoy.io/ea/word/vq5813.jpeg",
+    ".pos-holder": "noun",
+    ".textPronunciation": "/ðə hoʊl θɪŋ/",
+    ".definition": "The entirety (of something); all (of something)",
+    ".example": "Why don’t we just forget the whole thing?"
+  },
+  {
+    "h3": "at one time",
+    "img": "https://cdn.ejoy.io/ea/word/vq5814.jpeg",
+    ".pos-holder": "adv",
+    ".textPronunciation": "/ət wʌn tɑɪm/",
+    ".definition": "at a time in the past but not now",
+    ".example": "At one time I thought that too."
+  },
+  {
+    "h3": "in a sense",
+    "img": "https://cdn.ejoy.io/ea/word/vq5815.jpeg",
+    ".pos-holder": "phrase",
+    ".textPronunciation": "/ ɪn ə sens/",
+    ".definition": "in one way, from one point of view",
+    ".example": "In a sense, the book's story stands as a metaphor for the American dream."
+  },
+  {
+    "h3": "on average",
+    "img": "https://cdn.ejoy.io/ea/word/vq5816.jpeg",
+    ".pos-holder": "adv",
+    ".textPronunciation": "/ɔn ˈæv·rɪdʒ/",
+    ".definition": "usually",
+    ".example": "On average, a person’s income is highest when they are in their mid-50s."
+  },
+  {
+    "h3": "way round",
+    "img": "https://cdn.ejoy.io/ea/word/vq5817.webp",
+    ".pos-holder": "phrase",
+    ".textPronunciation": "/ weɪ rɑʊnd/",
+    ".definition": "a way of dealing with or avoiding a problem",
+    ".example": "There's no way round this problem."
+  },
+  {
+    "h3": "can tell",
+    "img": "https://cdn.ejoy.io/ea/word/vq5818.jpeg",
+    ".pos-holder": "phrase",
+    ".textPronunciation": "/ kæn tel/",
+    ".definition": "Used to say that you know something after you see it, touch it or hear it, recognise it, you can recognise the difference, change, characteristic or particularity",
+    ".example": "You can tell from the markings."
+  },
+  {
+    "h3": "free from",
+    "img": "https://cdn.ejoy.io/ea/word/vq5819.jpeg",
+    ".pos-holder": "phrase",
+    ".textPronunciation": "/fri frʌm/",
+    ".definition": "released or removed from",
+    ".example": "I dream of a life free from stress."
+  },
+  {
+    "h3": "and all that",
+    "img": "https://cdn.ejoy.io/ea/word/vq5820.jpeg",
+    ".pos-holder": "phrase",
+    ".textPronunciation": "/ænd ɔl ðæt/",
+    ".definition": "and that sort of thing; and so on.",
+    ".example": "I like art and all that."
+  },
+  {
+    "h3": "as it were",
+    "img": "https://cdn.ejoy.io/ea/word/vq5821.jpeg",
+    ".pos-holder": "phrase",
+    ".textPronunciation": "/æz ɪt wɜr/",
+    ".definition": "used for making description sound less definite",
+    ".example": "The party was a smash as it were."
+  },
+  {
+    "h3": "what if",
+    "img": "https://cdn.ejoy.io/ea/word/vq5822.jpeg",
+    ".pos-holder": "phrase",
+    ".textPronunciation": "/wʌt if/",
+    ".definition": "used for asking what action to take if a particular thing should happen",
+    ".example": "What if our plane is delayed and we can’t make the connection?"
+  }
+]
